@@ -41,7 +41,10 @@
   /* header裝修區 */
   .header {
     text-align: center;
+ /*
     background-image: url('https://i1.kknews.cc/Tr-LnVqH_GHiUYNUVhR8jp2MkDzq5cTr-rEvV2w/0.jpg');
+    */
+    background-image: url('../images/0.jpg');
     color: white;
     background-size: cover;
     background-position: 0 bottom;
